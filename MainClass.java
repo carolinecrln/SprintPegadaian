@@ -1,10 +1,10 @@
-package git0511;
+package pegadaian;
 import java.io.*;
 
-public class MainClass {
-	public MainClass(String [] args) {
-		System.out.println("Version 3");
-		System.out.println("Belajar pull");
-		System.out.println("Caduuuuuuuuyyyyy cantik banget deh kamutuuuuuuu uwu <3");
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Version 6");
+		System.out.println("Adding Logout");
 	}
 }
+
