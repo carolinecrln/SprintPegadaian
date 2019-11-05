@@ -3,7 +3,7 @@ import java.io.*;
 
 public class MainClass {
 	public MainClass(String [] args) {
-		System.out.println("Hello world!");
-		System.out.println("commit");
+		System.out.println("Version 3");
+		System.out.println("Belajar pull");
 	}
 }
