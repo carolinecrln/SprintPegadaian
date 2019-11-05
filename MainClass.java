@@ -4,6 +4,6 @@ import java.io.*;
 public class MainClass {
 	public MainClass(String [] args) {
 		System.out.println("Hello world!");
-		System.out.println("Version 1");
+		System.out.println("commit");
 	}
 }
